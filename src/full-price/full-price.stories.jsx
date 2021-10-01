@@ -2,7 +2,7 @@ import React from "react";
 import FullPrice from "./full-price";
 
 export default {
-    title: 'Полная цена (fullPrice)'
+    title: 'Полная цена (FullPrice)'
 }
 const Template = (args) => <FullPrice {...args} />;
 

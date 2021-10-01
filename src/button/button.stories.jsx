@@ -2,7 +2,7 @@ import React from "react";
 import Button from "./button";
 
 export default {
-    title: 'Кнопка (button)',
+    title: 'Кнопка (Button)',
 }
 const Template = (args) => <Button {...args} />;
 

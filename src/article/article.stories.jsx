@@ -6,8 +6,8 @@ export default {
 }
 const Template = (args) => <Article {...args} />;
 
-export const defaultButton  = Template.bind({});
+export const defaultArticle  = Template.bind({});
 
-defaultButton.args = {
+defaultArticle.args = {
     children: '3432343',
 }
